@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/auth",
+  "name": "@webhive/auth",
   "version": "4.10.1",
   "description": "Authentication module for Nuxt.js",
   "repository": "webhive/auth-module",
