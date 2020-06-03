@@ -1,6 +1,6 @@
 {
   "name": "@webhive/auth",
-  "version": "4.10.1",
+  "version": "4.10.3",
   "description": "Authentication module for Nuxt.js",
   "repository": "webhive/auth-module",
   "license": "MIT",

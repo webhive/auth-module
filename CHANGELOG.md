@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.10.3](https://github.com/webhive/auth-module/compare/v4.10.1...v4.10.3) (2020-06-03)
+
 ### [4.10.1](https://github.com/webhive/auth-module/compare/v4.10.0...v4.10.1) (2020-06-03)
 
 ## [4.10.0](https://github.com/webhive/auth-module/compare/v4.9.0...v4.10.0) (2020-06-03)
